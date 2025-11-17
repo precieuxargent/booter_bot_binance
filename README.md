@@ -14,3 +14,6 @@ and create the idealistic signals based on the fluctuations(noise in the market)
    * Data collection type for signal generation.
    * From which date to which date If using historical data
    * Markets to take into consideration for processing
+
+[from PythonRepo](https://pythonrepo.com/repo/puneeth714-Booter_bot-python-cryptography)
+[Disc ChatGPT]()
